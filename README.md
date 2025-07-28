@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project focuses on detecting fraudulent transactions using a supervised machine learning approach.Fraudulent activity poses significant challenges to financial systems,and early detection helps prevent massive financial losses.Using Python and machine learning libraries, this project builds a logistic regression model to classify transactions as legitimate or fraudulent based on key features extracted from a given dataset.
+This project focuses on detecting fraudulent transactions using a supervised machine learning approach.Fraudulent activity poses significant challenges to financial systems and early detection helps prevent massive financial losses. Using Python and machine learning libraries, this project builds a logistic regression model to classify transactions as legitimate or fraudulent based on key features extracted from a given dataset.
 
 ## Usage
 
-1.Launch Jupyter Notebook
+1.Launch Jupyter Notebook.
 
 2.Open FraudDetection.ipynb
 
